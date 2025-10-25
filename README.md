@@ -19,3 +19,5 @@ npm run dev
 
 Komut çalıştıktan sonra uygulama şu adreste çalışacaktır:
 👉 http://localhost:3000
+
+https://github.com/user-attachments/assets/12cf34cb-0e41-454d-8aff-cd3bc518028a
